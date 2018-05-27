@@ -3,3 +3,5 @@ This is the demo for my COMP6443 something awesome project, the details in the "
 
 
 Also, I got some exercises for padding oracles and I write the solution in the "PaddingOraclesExercises.pdf", to help the visiors and I to review later.
+
+** If you can not view the pdf online ,please download it in your local machine and open it.
